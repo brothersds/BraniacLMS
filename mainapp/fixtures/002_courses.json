@@ -1,0 +1,24 @@
+[
+  {
+    "model": "mainapp.courses",
+    "pk": 1,
+    "fields": {
+      "name": "News001",
+      "description": null,
+      "description_as_markdown": false,
+      "cost": "0.00",
+      "cover": "no_image.svg",
+      "created": "2022-10-05T23:42:03.909Z",
+      "updated": "2022-10-05T23:42:03.909Z",
+      "deleted": false
+    }
+  },
+  {
+    "model": "mainapp.courses",
+    "pk": 2,
+    "fields": {
+      "name": "News001",
+      "description": null,
+      "description_as_markdown": false,
+      "cost": "0.00",
+      "cover": "no_image.svg", "created": "2022-10-05T23:42:38.091Z", "updated": "2022-10-05T23:42:38.091Z", "deleted": false}}, {"model": "mainapp.courses", "pk": 3, "fields": {"name": "News001", "description": null, "description_as_markdown": false, "cost": "0.00", "cover": "no_image.svg", "created": "2022-10-05T23:42:39.381Z", "updated": "2022-10-05T23:42:39.381Z", "deleted": false}}, {"model": "mainapp.courses", "pk": 4, "fields": {"name": "News001", "description": null, "description_as_markdown": false, "cost": "0.00", "cover": "no_image.svg", "created": "2022-10-05T23:42:40.392Z", "updated": "2022-10-05T23:42:40.392Z", "deleted": false}}, {"model": "mainapp.courses", "pk": 5, "fields": {"name": "News001", "description": null, "description_as_markdown": false, "cost": "0.00", "cover": "no_image.svg", "created": "2022-10-05T23:42:41.411Z", "updated": "2022-10-05T23:42:41.411Z", "deleted": false}}, {"model": "mainapp.courses", "pk": 6, "fields": {"name": "News001", "description": null, "description_as_markdown": false, "cost": "0.00", "cover": "no_image.svg", "created": "2022-10-05T23:42:42.314Z", "updated": "2022-10-05T23:42:42.314Z", "deleted": false}}, {"model": "mainapp.courses", "pk": 7, "fields": {"name": "News001", "description": null, "description_as_markdown": false, "cost": "0.00", "cover": "no_image.svg", "created": "2022-10-05T23:42:43.184Z", "updated": "2022-10-05T23:42:43.184Z", "deleted": false}}, {"model": "mainapp.courses", "pk": 8, "fields": {"name": "News001", "description": null, "description_as_markdown": false, "cost": "0.00", "cover": "no_image.svg", "created": "2022-10-05T23:42:44.011Z", "updated": "2022-10-05T23:42:44.011Z", "deleted": false}}]
